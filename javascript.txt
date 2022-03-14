@@ -1,0 +1,19 @@
+object oriented programming is imperative
+programming
+functional programming is declarative 
+programming
+javasript combines both imperative and 
+declarative
+javascript is a multi paradigm language
+it is an interpreted language not compiled
+it goes line by line
+it is a high level language
+it is a scripting language
+it is single threaded language
+this means it runs one process at a time
+not parallel
+it is extremely flexible like working in
+the browser
+
+to print say console.log
+console.log('Party')
