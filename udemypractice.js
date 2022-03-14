@@ -27,6 +27,14 @@ let's start working */
 // }
 // console.log(isShortsWeather(80));
 
-const greet = name => {
-    return "Hello" + name + "!"; };
-    console.log(greet("Blue"));
+// const greet = name => {
+//     return "Hello" + name + "!"; };
+//     console.log(greet("Blue"));
+
+function validUserNames(usernames) {
+    return usernames.filter(function(username) {
+        return username.length < 10;
+    }
+    )
+    
+    }
